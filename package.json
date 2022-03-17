@@ -1,0 +1,19 @@
+{
+  "name": "security_spectrum",
+  "version": "1.0.0",
+  "description": "A discord bot for server security.",
+  "main": "script/index.ts",
+  "scripts": {
+    "start": "ts-node script/index.ts"
+  },
+  "keywords": [],
+  "author": "Charlie Charleston",
+  "license": "MIT License",
+  "devDependencies": {
+    "ts-node": "^10.6.0",
+    "typescript": "^4.6.2"
+  },
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
